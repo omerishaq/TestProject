@@ -1,3 +1,5 @@
+- another conflict in master
+
 - added first comment
 
 - change two
